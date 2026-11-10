@@ -87,7 +87,7 @@ Self-hosted, developer-friendly open-source tools for synchronizing Stripe data 
 
 ### ⭐ Open-Source Comparison & Star Ranking
 
-All open-source tools below are verified, actively maintained, and ranked in **descending order by GitHub Stars_Count**. Each project includes a real-time GitHub social badge linking straight to its repository stargazers page:
+All open-source tools below are verified, actively maintained, and ranked in **descending order by GitHub_Stars_Count**. Each project includes a real-time GitHub social badge linking straight to its repository stargazers page:
 
 | Repository / Project 📦 | GitHub_Stars 🌟 | Primary Stack 💻 | License 📜 | Self-Hosted 🏠 | Architecture & Stripe Sync Role ⚙️ |
 |:------------------------|:---------|:-----------------|:-----------|:--------------|:----------------------------------|
