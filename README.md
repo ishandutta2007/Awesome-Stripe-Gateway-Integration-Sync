@@ -35,6 +35,7 @@
   - [📦 Open-Source Project Deep Dives](#-open-source-project-deep-dives)
 - [📊 Architectural Comparison Matrix](#-architectural-comparison-matrix)
 - [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -159,6 +160,23 @@ All open-source tools below are verified, actively maintained, and ranked in **d
 ## 📈 Star History
 
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Stripe-Gateway-Integration-Sync&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Stripe-Gateway-Integration-Sync&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting this project! If you found this curated directory useful for integrating Stripe, streamlining payment gateways, or synchronizing billing data, please consider supporting its ongoing maintenance:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and contribute** by submitting new tools, libraries, and corrections.
+- 📢 **Share this repo** with your engineering team, on social channels, and in developer communities.
+- ☕ **Buy me a coffee / Sponsor**: If this project saved you hours of research and integration debugging, you can support my open-source work directly via my [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<div align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</div>
 
 ---
 
