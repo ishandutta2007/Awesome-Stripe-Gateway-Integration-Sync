@@ -1,5 +1,3 @@
-# Awesome-Stripe-Gateway-Integration-Sync
-
 # Awesome Stripe Gateway Integration & Sync
 
 > A curated list of top Stripe Gateway Integration and Sync platforms — both SaaS/Hosted commercial solutions and open-source alternatives for connecting Stripe to billing systems, marketplaces, and payment workflows.
