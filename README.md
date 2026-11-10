@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Stripe-Gateway-Integration-Sync/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Stripe-Gateway-Integration-Sync?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Stripe-Gateway-Integration-Sync/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Stripe-Gateway-Integration-Sync?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Stripe-Gateway-Integration-Sync/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Stripe-Gateway-Integration-Sync?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Stripe-Gateway-Integration-Sync/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -87,9 +87,9 @@ Self-hosted, developer-friendly open-source tools for synchronizing Stripe data 
 
 ### ⭐ Open-Source Comparison & Star Ranking
 
-All open-source tools below are verified, actively maintained, and ranked in **descending order by GitHub star count**. Each project includes a real-time GitHub social badge linking straight to its repository stargazers page:
+All open-source tools below are verified, actively maintained, and ranked in **descending order by GitHub Stars_Count**. Each project includes a real-time GitHub social badge linking straight to its repository stargazers page:
 
-| Repository / Project 📦 | Stars 🌟 | Primary Stack 💻 | License 📜 | Self-Hosted 🏠 | Architecture & Stripe Sync Role ⚙️ |
+| Repository / Project 📦 | GitHub_Stars 🌟 | Primary Stack 💻 | License 📜 | Self-Hosted 🏠 | Architecture & Stripe Sync Role ⚙️ |
 |:------------------------|:---------|:-----------------|:-----------|:--------------|:----------------------------------|
 | **[Lago](https://github.com/getlago/lago)** | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Ruby on Rails / PostgreSQL / Redis | AGPL-3.0 | ✅ Self-Hosted | Open-source metered billing engine that calculates subscription fees and emits finalized invoices directly to Stripe gateway for automated collection. |
 | **[stripe-node](https://github.com/stripe/stripe-node)** | [![Stars](https://img.shields.io/github/stars/stripe/stripe-node?style=social&color=white)](https://github.com/stripe/stripe-node/stargazers) | TypeScript / Node.js | MIT | ✅ In-App Library | Official Node.js/TypeScript SDK with full Stripe API coverage, typed webhook signature verification, and request retries. |
